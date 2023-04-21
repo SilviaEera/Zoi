@@ -429,8 +429,9 @@ body {
     line-height: 27px;
     text-align: center;
   }
+
   .card.infoCards {
-    width: 279px !important;
+    width: 260px !important;
   }
 
   .WorkCard {
@@ -482,7 +483,7 @@ body {
     margin-left: 36px;
   }
   .card.infoCards {
-    width: 279px !important;
+    width: 260px !important;
   }
 
   .startBtn {
@@ -493,7 +494,7 @@ body {
 }
 @media screen and (min-width: 360px) and (max-width: 500px) {
   .card.infoCards {
-    width: 279px !important;
+    width: 260px !important;
   }
 
   .WorkCardText {
@@ -505,6 +506,9 @@ body {
     width: 248px !important;
     margin-right: 30px !important;
     height: 500px !important;
+  }
+  .card.infoCards {
+    width: 248px !important;
   }
   .WorkCardText > .card-body > .card-title {
     font-size: 34px !important;
@@ -531,6 +535,9 @@ body {
     margin-right: 36px !important;
     height: 500px !important;
   }
+  .card.infoCards {
+    width: 260px !important;
+  }
   .WorkCardText > .card-body > .card-title {
     font-size: 36px !important;
   }
@@ -554,7 +561,7 @@ body {
   }
 
   .card.infoCards {
-    width: 279px !important;
+    width: 298px !important;
   }
 
   .WorkCardText {
@@ -587,7 +594,7 @@ body {
   .WorkCardText {
     width: 298px !important;
     height: 400px !important;
-    margin-right: 86px !important;
+    margin-right: 94px !important;
   }
   .WorkCardText {
     height: 500px !important;
@@ -606,7 +613,7 @@ body {
     font-size: 20px !important;
   }
   .card.infoCards {
-    width: 279px !important;
+    width: 298px !important;
   }
 }
 
